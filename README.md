@@ -1,2 +1,0 @@
-# PHPStormSettings
-Settings Repository

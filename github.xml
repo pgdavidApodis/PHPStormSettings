@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="788c1342-dacb-4b12-b7e4-3db519f0a010" name="pg.david@apodispharma.com">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
+</application>

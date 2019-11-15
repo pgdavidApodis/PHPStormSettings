@@ -4,34 +4,10 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="pg.david@apodispharma.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/LaCentralePharma/Apodis-API-V2.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/LaCentralePharma/Apodis-Front.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/MariaDB/server.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/LaCentralePharma/Apodis-Admin.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/LaCentralePharma/Sante-Secure-Proxy.git" />
-          <option name="userName" value="" />
+          <option name="userName" value="DenneulinThomas" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/LaCentralePharma/Apodis-Patient.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/pgdavidApodis/store-publish.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -39,7 +15,6 @@
     <option name="cloneParentDir" value="$USER_HOME$/Projets" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />

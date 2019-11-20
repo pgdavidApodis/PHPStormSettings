@@ -4,10 +4,14 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="DenneulinThomas" />
+          <option name="userName" value="k.benderradji@apodispharma.com" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/LaCentralePharma/Apodis-Patient.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DenneulinThomas/Mockup-Patient-Server" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

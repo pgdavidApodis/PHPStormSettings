@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="module:react-navigation.StackActions.reset(options)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

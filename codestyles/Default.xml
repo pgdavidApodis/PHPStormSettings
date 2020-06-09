@@ -9,6 +9,12 @@
     <option name="ELSE_IF_STYLE" value="COMBINE" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="JSDOC_INCLUDE_TYPES" value="true" />
+    <option name="PREFER_EXPLICIT_TYPES_VARS_FIELDS" value="true" />
+    <option name="PREFER_EXPLICIT_TYPES_FUNCTION_RETURNS" value="true" />
+    <option name="PREFER_EXPLICIT_TYPES_FUNCTION_EXPRESSION_RETURNS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />

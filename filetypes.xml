@@ -1,9 +1,10 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="ttf" type="JQL" />
-      <mapping pattern="notice" type="PLAIN_TEXT" />
       <mapping pattern=".svgrrc" type="PLAIN_TEXT" />
+      <mapping pattern=".elintignore" type="PLAIN_TEXT" />
+      <mapping pattern="notice" type="PLAIN_TEXT" />
       <mapping ext="p8" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

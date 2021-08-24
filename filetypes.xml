@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="euro-circle.svg" type="AUTO_DETECTED" />
       <mapping ext="ttf" type="JQL" />
       <mapping pattern=".elintignore" type="PLAIN_TEXT" />
       <mapping pattern="notice" type="PLAIN_TEXT" />

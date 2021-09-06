@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.phar;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern="euro-circle.svg" type="AUTO_DETECTED" />
       <mapping ext="ttf" type="JQL" />
       <mapping pattern=".elintignore" type="PLAIN_TEXT" />
-      <mapping pattern="notice" type="PLAIN_TEXT" />
       <mapping pattern=".svgrrc" type="PLAIN_TEXT" />
+      <mapping pattern="notice" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="p8" type="PLAIN_TEXT" />
     </extensionMap>

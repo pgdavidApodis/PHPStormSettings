@@ -12,4 +12,16 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="hk" value="/**&#10; * Hook to $doc$.&#10; *&#10; * @return {object}&#10; */&#10;const use$hook$ = () =&gt; {&#10;&#10;    const index = () =&gt; {&#10;&#10;    };&#10;&#10;    return {&#10;        index&#10;    };&#10;};&#10;&#10;export default use$hook$;&#10;" description="Create a hook" toReformat="false" toShortenFQNames="true">
+    <variable name="hook" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="doc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ldng" value="const [loading, setLoading] = useState&lt;boolean&gt;(true);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -19,7 +19,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ldng" value="const [loading, setLoading] = useState&lt;boolean&gt;(true);" toReformat="false" toShortenFQNames="true">
+  <template name="ldng" value="const [loading, setLoading] = useState&lt;boolean&gt;(true);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>

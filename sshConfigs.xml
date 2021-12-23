@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="factory.apodispharma.com" id="78259be2-e810-42f2-837c-f3c4e1c38ed5" keyPath="$USER_HOME$/.ssh/kbenderradji.key" port="22" nameFormat="DESCRIPTIVE" username="kbenderradji" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>

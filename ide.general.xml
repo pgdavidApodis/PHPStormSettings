@@ -8,6 +8,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
       </map>
     </option>

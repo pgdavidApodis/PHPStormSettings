@@ -24,4 +24,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="nvg" value="import React, {ReactElement} from &quot;react&quot;;&#10;&#10;export type $name$NavigationParamList = {&#10;};&#10;&#10;const $name$Navigation = //createNav&#10;&#10;/**&#10; * $doc$&#10; *&#10; * @return {JSX.Element}&#10; * @constructor&#10; */&#10;const $name$Navigator = (): ReactElement =&gt; {&#10;    return (&#10;    &lt;$name$Navigation.Navigator&gt;&#10;        &lt;$name$Navigation.Screen/&gt;&#10;    &lt;/$name$Navigation.Navigator&gt;&#10;    );&#10;};&#10;&#10;export default $name$Navigator;&#10;" description="Create a navigator" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="doc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
